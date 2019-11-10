@@ -1,0 +1,20 @@
+dn: idcat=4,ou=socis,dc=miguel,dc=cat
+objectclass: indepeOrgPerson
+objectclass: marchenaAccount
+sn: junqueres
+cn: junqueres
+foto: file:///opt/docker/imatge.jpg
+lema: Revolucio
+twitter: https://twitter.com/ertglobal?lang=es
+delictes: sediccio malversacio
+anysComdemna: 18
+
+dn: idcat=5,ou=socis,dc=miguel,dc=cat
+objectclass: indepeOrgPerson
+objectclass: marchenaAccount
+sn: puigdemont
+cn: puigdemont
+foto: file:///opt/docker/imatge.jpg
+lema: Espana feixista
+twitter: https://twitter.com/ertglobal?lang=es
+delictes: sediccio malversacio

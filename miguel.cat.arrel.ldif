@@ -1,0 +1,11 @@
+dn: dc=miguel,dc=cat
+dc: miguel
+description: Grup per a Indepes
+objectClass: dcObject
+objectClass: organization
+o: miguel.cat
+
+dn: ou=socis,dc=miguel,dc=cat
+ou: socis
+description: Container per a socis linux
+objectclass: organizationalunit

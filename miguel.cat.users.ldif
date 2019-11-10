@@ -1,0 +1,41 @@
+dn: idcat=10,ou=socis,dc=miguel,dc=cat
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+cn: Pau Pou
+sn: Pou
+homephone: 555-222-2220
+mail: pau@edt.org
+description: Watch out for this guy
+lema: terra lliure, un nou pais
+sardanes: True
+twitter: @paupou
+foto: < file:///opt/docker/imatge.png
+userPassword: {SSHA}NDkipesNQqTFDgGJfyraLz/csZAIlk2/
+
+dn: idcat=11,ou=socis,dc=miguel,dc=cat
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+cn: Pere Pou
+sn: Pou
+homephone: 555-222-2221
+mail: pere@edt.org
+description: Watch out for this guy
+lema: Catalunya independent
+sardanes: True
+twitter: @perepou
+foto: < file:///opt/docker/imatge.png
+userPassword: {SSHA}ghmtRL11YtXoUhIP7z6f7nb8RCNadFe+
+
+dn: idcat=12,ou=socis,dc=miguel,dc=cat
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+cn: Anna Pou
+sn: Pou
+homephone: 555-222-2222
+mail: anna@edt.org
+description: Watch out for this girl
+lema: Guanyarem la lluita
+sardanes: True
+twitter: @anapou
+foto: < file:///opt/docker/imatge.png
+userPassword: {SSHA}Bm4B3Bu/fuH6Bby9lgxfFAwLYrK0RbOq
